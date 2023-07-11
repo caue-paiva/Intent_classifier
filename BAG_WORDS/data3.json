@@ -1,0 +1,55 @@
+{
+    "padroes": [
+        {
+            "input": ["pesquise isso", "encontre detalhe", "busque por isso", "mostre dado", "o que e isso", "quem e esse", "onde e isso", "procure na web", "mostre resultado para", "qual e a definicao de", "pesquise online", "busque na internet", "faça uma pesquisa", "pesquisa rapida sobre", "descubra isso", "apresente informacao", "faça uma busca", "consulte isso na internet", "voce pode encontrar", "procure por mais detalhe", "investigue na web", "busque isso pra mim", "pesquisa profunda sobre", "procure online", "faça uma verificacao online", "web", "online", "internet"],
+            "classe": "pesquisa_web"
+        },
+        {
+            "input": ["mostre questao do enem", "busque por pergunta de vestibular", "encontre questao de vestibular antigo", "procure por questao do enem", "pesquise pergunta de vestibular", "quero ver questao do enem", "apresente questao de vestibular", "procure questao do enem para mim", "pesquise por questao de vestibular", "encontre pergunta do enem", "mostre-me questao de vestibular", "busque questao do enem", "encontre questao para o vestibular", "procure pergunta do enem", "pesquise questao de vestibular", "quero ver pergunta do enem", "mostre pergunta de vestibular", "busque por questao do enem", "quero questao de vestibular", "mostre questao do enem para mim", "encontre questao do enem", "busque pergunta de vestibular", "procure questao do enem", "pesquise pergunta de vestibular", "quero ver questao do enem", "questão", "questoes", "questões"],
+            "classe": "busca_questoes"
+        },
+        
+        {
+            "input": ["verifique a resposta da questao anterior", "qual e a alternativa correta?", "mostre a letra da resposta certa", "confira a resposta para mim", "verifique a alternativa da questao passada", "confira a letra da resposta", "pode verificar a resposta?", "qual e a resposta certa?", "verifique a alternativa correta", "confira a resposta anterior", "mostre a alternativa certa da questao anterior", "qual e a letra da resposta correta?", "verifique a resposta para essa questao", "pode confirmar a alternativa correta?", "confira a letra correta para mim", "verifique a resposta da ultima questao", "qual e a alternativa certa para a questao passada?", "confira a resposta correta", "mostre a letra da resposta anterior", "pode verificar a alternativa da ultima questao?", "confira a resposta da questao para mim", "verifique a letra correta da questao anterior", "qual e a resposta correta da ultima questao?", "confirme a alternativa da questao anterior para mim", "pode mostrar a letra da resposta correta?", "a alternativa correta da questao anterior era a letra a?", "a resposta da ultima questao foi b?", "a letra da resposta da questao anterior era c?", "o gabarito da questao passada era d?", "a alternativa certa era e?", "a resposta da questao anterior era a letra a?", "a letra correta da questao passada era b?", "a alternativa da ultima questao era c?", "a resposta correta era a letra d?", "a alternativa da questao anterior era e?"],
+            "classe": "verifica_resposta"
+        },
+        
+        {
+            "input": [
+                "me explique mais sobre isso", 
+                "qual sao os conceitos basicos de",
+                "como isso funciona?", 
+                "voce pode me ajudar a entender",
+                "o que isso significa?", 
+                "qual sao os principios de",
+                "mostre um exemplo de", 
+                "como posso resolver isso?",
+                "pode me ajudar com esse exercicio?", 
+                "o que e essa formula?", 
+                "mostre-me os passos para resolver isso",
+                "qual sao as regras para", 
+                "voce pode me dar um resumo sobre", 
+                "preciso de ajuda para entender isso",
+                "vamos praticar mais", 
+                "como posso melhorar em", 
+                "qual sao as melhores estrategias para",
+                "me ajude a revisar isso", 
+                "preciso de conselhos sobre", 
+                "qual e a melhor forma de aprender",
+                "vamos revisar o topico de", 
+                "me de algumas dicas sobre",
+                "como isso se relaciona com", 
+                "o que preciso saber sobre",
+                "vamos comecar a licao", 
+                "me ajude a preparar para o teste",
+                "qual e a tecnica para", 
+                "voce pode me ensinar mais sobre",
+                "preciso praticar mais",
+                "voce pode me explicar essa questao?", 
+                "preciso de uma explicacao mais detalhada sobre esse conceito",
+                "como resolver isso?"
+            ],
+            "classe": "chat_padrao"
+        }]
+
+}
