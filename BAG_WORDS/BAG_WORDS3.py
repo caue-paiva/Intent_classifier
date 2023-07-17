@@ -14,6 +14,7 @@ from keras.optimizers import SGD
 from keras.models import load_model
 import sys
 
+
 import string
 
 class ai:
